@@ -50,7 +50,7 @@ function Projects() {
       image: img23,
       tech: ["React", "Tailwind CSS", "Framer Motion"],
       github:"https://github.com/UmeshSathsarana/Portfolio",
-      demo: "https://umeshsathsarana.github.io/Portfolio/",
+      demo: "https://umeshsathsarana.github.io/UmeshSathsarana_Portfolio/",
     },
 
     
