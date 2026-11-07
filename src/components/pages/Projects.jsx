@@ -3,6 +3,7 @@ import img4 from "../../assets/4.jpg";
 import img3 from "../../assets/3.jpg";
 import img23 from "../../assets/23.jpg";
 import img6 from "../../assets/dd.png";
+import img24 from "../../assets/kk.png";
 import { FaGithub } from "react-icons/fa";
 
 function Projects() {
@@ -53,6 +54,17 @@ function Projects() {
       demo: "https://umeshsathsarana.github.io/UmeshSathsarana_Portfolio/",
       
     },
+     {
+      title: "Knot.lk – 3D Digital Wedding Invitation Platform (2026) — Founder & Lead Developer Project",
+      description:
+        "A modern, responsive Next.js web application designed to transform traditional paper invitations into interactive 3D digital experiences. Built as a commercial platform featuring dynamic URL parameter routing for personalized guest greetings (?guest=Name), a live event countdown timer, ambient audio controls, and integrated Google Maps navigation.",
+      image: img24 ,
+      tech: ["Next.js", "Tailwind CSS", "HTML5", "JavaScript", "Vercel (Deployment)"],
+      github:"https://github.com/UmeshSathsarana/Kont.lk",
+      demo: "https://kont-lk.vercel.app/",
+      
+    },
+
 
     
   ];
